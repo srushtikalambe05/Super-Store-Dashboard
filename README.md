@@ -1,6 +1,6 @@
-# 📊 Superstore Tableau Dashboard (Practice Project)
+# Superstore Tableau Dashboard (Practice Project)
 
-## 📌 Overview  
+## Overview  
 This repository contains a **starter Tableau dashboard project** built using the **Superstore dataset**.  
 The dashboard was designed as a **practice exercise** to learn Tableau fundamentals, including:  
 - Connecting data  
@@ -10,13 +10,13 @@ The dashboard was designed as a **practice exercise** to learn Tableau fundament
 
 ---
 
-## 🛠️ Tools Used  
+## Tools Used  
 - **Tableau Public / Tableau Desktop**  
 - **Superstore Dataset (Sample data provided by Tableau)**  
 
 ---
 
-## 📈 Dashboard Features  
+## Dashboard Features  
 The dashboard provides insights into:  
 - **Sales & Profit Overview**: Total sales, profit, and order count  
 - **Customer Analysis**: Total customers and top 10 customers by sales  
